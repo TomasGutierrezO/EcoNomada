@@ -1,29 +1,29 @@
 <resources>
-    <string name="app_name">FinanciApp</string>
-    <string name="email">Email</string>
-    <string name="password">Password</string>
-    <string name="login">Login</string>
-    <string name="register">Register</string>
-    <string name="logOut">Log Out</string>
-    <string name="forgot_password">Forgot password?</string>
-    <string name="reset">Reset</string>
+    <string name="app_name">EcoNómada</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="logOut">Cerrar sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="reset">Restablecer</string>
     <string name="logo_description">logo</string>
-    <string name="send">Send</string>
-    <string name="IDNumber">ID number:</string>
-    <string name="accountType">Account type:</string>
-    <string name="createAccount">Create Account</string>
-    <string name="sendCreateAccount">Create</string>
-    <string name="edit_profile">Edit</string>
-    <string name="editprofile">Edit Profile</string>
-    <string name="monto_inicial">Starting amount</string>
-    <string name="transaction">Transaction</string>
+    <string name="send">Enviar</string>
+    <string name="IDNumber">Número de identificación:</string>
+    <string name="accountType">Tipo de cuenta:</string>
+    <string name="createAccount">Crear cuenta</string>
+    <string name="sendCreateAccount">Crear</string>
+    <string name="edit_profile">Editar</string>
+    <string name="editprofile">Editar perfil</string>
+    <string name="monto_inicial">Monto inicial</string>
+    <string name="transaction">Transacción</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-    <string name="select_account">Select an account:</string>
-    <string name="account_balance">Account balance: $%.2f</string>
+    <string name="first_fragment_label">Primer fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="select_account">Selecciona una cuenta:</string>
+    <string name="account_balance">Saldo de cuenta: $%.2f</string>
     <string name="total_balance">Total:</string>
     <string name="total_balance_amount">$%.2f</string>
     <string name="lorem_ipsum">
@@ -62,11 +62,12 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
-    <string name="monto">Amount</string>
-    <string name="transferir">Transfer</string>
-    <string name="account">Account</string>
-    <string name="cuenta_que_recibe">Receiving account</string>
-    <string name="category">category</string>
-    <string name="monto1">Amount</string>
-    <string name="depositar">Save</string>
+    <string name="monto">Monto</string>
+    <string name="transferir">Transferir</string>
+    <string name="account">Cuenta</string>
+    <string name="cuenta_que_recibe">Cuenta receptora</string>
+    <string name="category">Categoría</string>
+    <string name="monto1">Monto</string>
+    <string name="depositar">Guardar</string>
+    <string name="economada">EcoNómada</string>
 </resources>

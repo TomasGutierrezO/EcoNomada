@@ -62,7 +62,7 @@
         android:id="@+id/sendDepositBT"
         android:layout_width="124dp"
         android:layout_height="wrap_content"
-        android:background="@drawable/rounded_button"
+        android:backgroundTint="#6C7FAF"
         android:text="Save" />
 
 </LinearLayout>
