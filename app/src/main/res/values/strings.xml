@@ -74,4 +74,22 @@
     <string name="document_number">Número de documento</string>
     <string name="save">Guardar</string>
     <string name="log_into_your_account">Inicia sesión en tu cuenta</string>
+    <string name="income">Ingreso</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="categor_a">Categoría</string>
+    <string name="amount">Cantidad</string>
+    <string name="guardar">Guardar</string>
+    <string name="gasto">Gasto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="ingreso">Ingreso</string>
+    <string name="transferencia">Transferencia</string>
+    <string name="LoginText">Inicie sesión para acceder a su gestión financiera o cree una cuenta para comenzar.</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="agregar_transaccion">Agregar transacción</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="ver_graficas">Ver gráficas</string>
+    <string name="editar_perfil">Editar perfil</string>
+    <string name="generar_grafica">Generar gráfica</string>
+    <string name="fecha_inicial">Fecha inicial</string>
+    <string name="fecha_final">Fecha final</string>
 </resources>

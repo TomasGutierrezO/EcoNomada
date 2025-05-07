@@ -17,7 +17,7 @@
         android:layout_marginTop="88dp"
         android:layout_marginEnd="51dp"
         android:layout_marginBottom="92dp"
-        android:text="Sign in to access your finance management or create an account to get started."
+        android:text="@string/LoginText"
         android:textColor="#858587"
         android:textSize="18sp"
         android:textStyle="bold"

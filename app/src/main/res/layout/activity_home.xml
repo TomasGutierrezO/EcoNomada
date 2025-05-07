@@ -21,7 +21,7 @@
             android:layout_height="match_parent"
             android:background="#6C7FAF"
             android:gravity="center"
-            android:text="EcoNomada"
+            android:text="@string/app_name"
             android:textColor="#FFFFFF"
             android:textSize="50sp"
             android:textStyle="bold" />
@@ -127,7 +127,7 @@
                             android:layout_marginStart="24dp"
                             android:layout_marginBottom="20dp"
                             android:backgroundTint="#6C7FAF"
-                            android:text="Add transaction"
+                            android:text="@string/agregar_transaccion"
                             android:textColor="@android:color/white"
                             app:layout_constraintBottom_toBottomOf="parent"
                             app:layout_constraintStart_toStartOf="parent" />
@@ -139,7 +139,7 @@
                             android:layout_marginEnd="24dp"
                             android:layout_marginBottom="20dp"
                             android:backgroundTint="#6C7FAF"
-                            android:text="Create account"
+                            android:text="@string/crear_cuenta"
                             android:textColor="@android:color/white"
                             app:layout_constraintBottom_toBottomOf="parent"
                             app:layout_constraintEnd_toEndOf="parent" />
@@ -181,7 +181,7 @@
             android:layout_marginStart="36dp"
             android:layout_marginBottom="5dp"
             android:backgroundTint="#6C7FAF"
-            android:text="View Charts"
+            android:text="@string/ver_graficas"
             android:textColor="@android:color/white"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
@@ -194,7 +194,7 @@
             android:layout_marginEnd="36dp"
             android:layout_marginBottom="5dp"
             android:backgroundTint="#6C7FAF"
-            android:text="Edit profile"
+            android:text="@string/editar_perfil"
             android:textColor="@android:color/white"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />

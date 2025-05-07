@@ -17,21 +17,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#6C7FAF"
-            android:text="Income" />
+            android:text="@string/ingreso" />
 
         <Button
             android:id="@+id/button_two"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#6C7FAF"
-            android:text="Expense" />
+            android:text="@string/gasto" />
 
         <Button
             android:id="@+id/button_three"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#6C7FAF"
-            android:text="Transfer" />
+            android:text="@string/transferencia" />
         <Space
             android:layout_width="match_parent"
             android:layout_height="15dp" />
